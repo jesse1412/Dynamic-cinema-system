@@ -1,0 +1,6 @@
+\\data.adir.hull.ac.uk\home5\515\515551\visual studio 2013\Projects\cinema_arrays2\cinema_arrays2\bin\Debug\cinema_arrays2.exe.config
+\\data.adir.hull.ac.uk\home5\515\515551\visual studio 2013\Projects\cinema_arrays2\cinema_arrays2\obj\Debug\cinema_arrays2.csprojResolveAssemblyReference.cache
+\\data.adir.hull.ac.uk\home5\515\515551\visual studio 2013\Projects\cinema_arrays2\cinema_arrays2\bin\Debug\cinema_arrays2.exe
+\\data.adir.hull.ac.uk\home5\515\515551\visual studio 2013\Projects\cinema_arrays2\cinema_arrays2\bin\Debug\cinema_arrays2.pdb
+\\data.adir.hull.ac.uk\home5\515\515551\visual studio 2013\Projects\cinema_arrays2\cinema_arrays2\obj\Debug\cinema_arrays2.exe
+\\data.adir.hull.ac.uk\home5\515\515551\visual studio 2013\Projects\cinema_arrays2\cinema_arrays2\obj\Debug\cinema_arrays2.pdb
